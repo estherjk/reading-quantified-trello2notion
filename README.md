@@ -21,3 +21,11 @@ Install Python dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+
+Run the script
+
+```bash
+python main.py
+```
